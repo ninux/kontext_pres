@@ -1,0 +1,65 @@
+Die PrintProcess AG ist mit einer Vielzahl von Abfällen konfrontiert wobei die Mehrheit dieser Abfälle nicht direkt ökologisch bedenklich ist wie dies etwa bei Giftstoffen der Fall ist.
+
+Das gesamte Konzept des Abfallmanagements der PrintProcess AG kann wie folgt mit folgenden Punkten beschrieben werden
+
+\begin{itemize}
+\item Abfälle werden direkt und durch jeden Mitarbeiter persönlich getrennt.
+\item Besondere Arten von Abfall haben eine Sammelstelle.
+\item Im UG\footnote{UG steht für Untergeschoss} werden grosse Sammelstellen unterhalten (siehe Abbildung ~\ref{abfall_keller}).
+\end{itemize}
+
+\noindent
+Im Pausenraum bzw. der Küchenecke wird allgemeiner und kompostierbarer Abfall getrennt gesammelt durch zwei klar gekennzeichnete Behälter. Da in allen anderen Bereichen des Unternehmens Grundsätzlich keine Verpflegung der Angestellten stattfindet (mit Ausnahme der Terrasse mit Mittags-Grill im Sommer) ist diese Infrastruktur betreffend kompostierbaren Abfällen ausreichend.
+
+\begin{figure}[htbp] % [htbp] ist der Parameter siehe http://www.weinelt.de/latex/figure.html
+  \centering
+  \includegraphics[angle=0,width=0.6\textwidth]{ms3/ppag_abfall_keller.jpg}
+  \caption{Abfallsammlung im Untergeschoss}
+  \label{abfall_keller}
+\end{figure}
+
+\noindent
+Die mengenmässige Mehrheit der Abfälle geht unter die Kategorien Holz, Papier, Karton und Verpackungsmaterial im Allgemeinen, da die PrintProcess AG sich nahezu sämtliche Systemkomponenten extern fertigen lässt. Dies hinterlässt dahingehend Spuren, dass verhältnismässig viel Verpackungsmaterial anfällt. Das Ver- und Entpacken hat einen eigenen Bereich im Unternehmen, welches zwischen Werkstatt und dem offenen Büro liegt. Dies hat den Vorteil, dass die Trennung der Abfälle an dieser Stelle optimal an deren Zweck angepasst ist mit der Trennung von Plastik, Papier, Karton und Füllmaterial. Die dazu vorgesehenen Sammelbehälter haben auch eine den Anforderungen entsprechende Kapazität.
+
+Im Bürobereich des Unternehmens ist an jedem Arbeitsplatz ein Papierkorb anzutreffen ohne einen zusätzlichen allgemeinen Abfall. Dies verhindert den Effekt, dass Papier aus Gewohnheit oder sonstigen Gründen im falschem Korb landet.
+
+Unmittelbar im Zugangsbereich der Werkstatt liegt der Umkleideraum. In diesem werden die Putzmittel und entsprechende Utensilien aufbewahrt. Diese Mittel können gerade in industriellen Varianten giftige oder ätzende Inhalte haben und sollten nicht in einen solchen Raum aufbewahrt werden. Zudem sind viele der Putzutensilien wie etwa Besen im Zugangsbereich zum Waschbecken gelagert. Dies kann eine Kontamination von sauberen und unsauberen Kleidungsstücken und anderen unerwünschten Folgen führen.
+
+Zentral gelegen in der Werkstatt befindet sich der Giftschrank in welchem diverse chemische Mittel geschlossen aufbewahrt werden. Eine entsprechende Sammelstelle für Leergut oder chemisch verunreinigte Textilien fehlt. Nach Angaben des Angestellten (Name?) ist der Gebrauch von chemischen Mittel auf Entfettungs- und sonstige Lösungsmittel beschränkt. Solche Abfälle werden im Gegensatz zu den ungefährlichen direkt durch Angestellte an einer entsprechenden Abnahme- oder Sammelstelle abgegeben.
+
+\begin{figure}[htbp] % [htbp] ist der Parameter siehe http://www.weinelt.de/latex/figure.html
+  \centering
+  \includegraphics[angle=0,width=0.6\textwidth]{ms3/ppag_abfall_werkstatt.jpg}
+  \caption{Abfallsammelstelle Werkstatt}
+  \label{abfall_werkstatt}
+\end{figure}
+
+Die Werkstatt der PrintProcess AG ist gut ausgestattet um die Abfälle optimal zu Trennen. Dazu ist im Zentrum der Werkstatt eine Sammelstelle für diverse Abfälle eingerichtet (siehe Abbildung ~\ref{abfall_werkstatt}). Technische Abfälle wie Elektroschrott und Altkupfer werden konsequent getrennt mit separaten Sammelbehältern. Zudem stehen den Angestellten kleinere Sammelbehälter zur Verfügung, damit ad hoc die Abfälle gesammelt und getrennt werden können. Stichprobenartig hat sich erweisen, dass dies zwar zu konsequenter Abfallsammlung, jedoch nicht zu optimaler Trennung der Abfälle führt. Ob dies einen Einzelfall darstellt kann nicht erwiesen werden. Nach Angaben des Angestellten (Name?) stellt dies nicht den Regelfall dar.
+
+Zwischen der grossen (Montage-) Werkstatt, dem Terassenzugang und dem Treppenhaus des Stockwerks liegt die kleinere Metallwerkstatt des Unternehmens. In dieser werden optimaler Weise die Altmetalle getrennt gesammelt. Nebst der Sammlung der Altmetalle werden dort ebenfalls leere PET-Flaschen aufbewahrt. Dies ist suboptimal, da dies keinen Verpflegungsbereich darstellt und es einen solchen an anderer Stelle gibt.\newline\newline
+
+\begin{tabular}{l | l | l }
+Kategorie  & Bewertung  & Kommentar \\
+\hline
+Papier           & Gut        & Jeder Arbeitsplatz hat einen Papierkorb \\
+Karton           & Gut        & Packbereich mit Kartonsammlung \\
+Plastik          & Genügend   & keine Sammlung bei Arbeitsplätzen \\
+Kompost/Bio      & Gut        & Bio-Abfälle nur im Küchenbereich \\
+Giftstoffe       & Ungenügend & keine Alt-/Leergutsammlung \\
+Elektroschrott   & Genügend   & zentral \& dezentral gesammelt \\
+Metalle          & Gut        & in Metallwerkstatt getrennt nach Art \\
+Holz             & Sehr gut   & wird nach Brenn- und Altholz getrennt \\
+Reinigungsmittel & Ungenügend & Reinigungsmittel im Umkleideraum gelagert \\
+\end{tabular} \newline\newline
+
+\noindent
+Die vorhergehende Auflistung zeigt die einzelnen Kategorien mit der Bewertung des Abfallmanagement, welche deutlich macht, dass das Abfallmanagement des Unternehmens punktuell Verbesserungspotential hat und das Konzept als solches erfolgreich ist.
+
+Konkrete Massnahmen zur Verebsserung:
+
+\begin{enumerate}
+\item Im Bürobereich wird ein Abfalleimer für allgemeine Abfälle wie Plastik zur Verfügung gestellt. Je bequemer die Abfalltrennung gestaltet wird, desto konsequenter wird diese durchgeführt.
+\item Im Giftschrank wird eine gegen Lösungsmittel resistente und veschliessbare Sammelbox installiet, in welcher das Alt- und Leergut von gifthaltigen Mitteln aufbewahrt und  abtransportiert wird.
+\item Die bisherigen dezentralen Sammelbehälter für Elektroschrott, Altkupfer und Allgemeinabfall werden durch mehrkammer-Boxen ersetzt, damit die Trennung dieser unterschiedlichen Stoffe vor Ort erfolgt.
+\item Reinigungsmittel und entsprechendes Zubehör wird in einem Schrank gelagert um ungewollten Kontakt und Kontamination zu vermeiden und den Zugang zum Waschbecken frei zu halten.
+\end{enumerate}
