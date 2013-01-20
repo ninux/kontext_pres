@@ -7,10 +7,10 @@
 \beamer@sectionintoc {2}{Methode}{5}{0}{2}
 \beamer@subsectionintoc {2}{1}{Input-Output Analyse}{5}{0}{2}
 \beamer@subsectionintoc {2}{2}{Mitarbeiterumfrage}{6}{0}{2}
-\beamer@subsectionintoc {2}{3}{Ecomap}{7}{0}{2}
-\beamer@sectionintoc {3}{Ergebnisse}{10}{0}{3}
-\beamer@subsectionintoc {3}{1}{Abfall}{10}{0}{3}
-\beamer@subsectionintoc {3}{2}{Energie}{11}{0}{3}
-\beamer@subsectionintoc {3}{3}{Sicherheit}{12}{0}{3}
-\beamer@subsectionintoc {3}{4}{KVP}{13}{0}{3}
-\beamer@sectionintoc {4}{Schluss}{14}{0}{4}
+\beamer@subsectionintoc {2}{3}{Ecomaps}{7}{0}{2}
+\beamer@sectionintoc {3}{Ergebnisse}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{Abfall}{9}{0}{3}
+\beamer@subsectionintoc {3}{2}{Energie}{10}{0}{3}
+\beamer@subsectionintoc {3}{3}{Sicherheit}{11}{0}{3}
+\beamer@subsectionintoc {3}{4}{KVP}{12}{0}{3}
+\beamer@sectionintoc {4}{Fazit}{13}{0}{4}

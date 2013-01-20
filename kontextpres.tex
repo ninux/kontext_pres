@@ -10,6 +10,7 @@
 \usepackage{subcaption}
 \usepackage{bchart}
 \usepackage{wrapfig}
+\usepackage{ulem}
 
 \usepackage{pgf-pie}
 
@@ -33,7 +34,7 @@
 }
 
 \title{KMU Umweltmanagement --- Kontextmodul HS12}
-\subtitle{Interdisziplinäre Projektarbeit des Kontextmoduls 1 \\ der Hochschule Luzern -- Technik und Architektur}
+\subtitle{Interdisziplinäre Projektarbeit des Moduls Kontext 1 \\ Hochschule Luzern -- Technik \& Architektur}
 \author{Kontextgruppe 8}
 
 \begin{document}
@@ -96,7 +97,7 @@
 \begin{overprint}
 \begin{figure}
 \includegraphics[scale=0.5]{ppag.png}
- \caption{Multilayergerät}
+ \caption{Belichtungsgerät an einer Ausstellung in Moskau (RU)}
 \end{figure}
 \end{overprint}
 \end{column}
@@ -117,10 +118,10 @@
 \author{Ervin Mazlagic}
 \section{Methode}
 \subsection{Input-Output Analyse}
-\frame{\frametitle{Input-Output\hfill{}\footnotesize HSLU -- T\&A}
+\frame{\frametitle{Output -- Abfälle\hfill{}\footnotesize HSLU -- T\&A}
 \begin{figure}
 \centering
-\begin{subfigure}{0.3\textwidth}
+\begin{subfigure}{0.34\textwidth}
         \begin{tikzpicture}
             \pie[text=pin, radius=1.3, rotate=330, explode ={0, 0.2}]{    67/ VP-Material,
                                            %5/ Plastik,
@@ -135,17 +136,17 @@
                                            %11/ E-Schrott
                                            }
         \end{tikzpicture}
-        \caption{Übersicht}
+        \caption{Übersicht ($\approx$3700kg)}
 \end{subfigure}
-\begin{subfigure}{0.65\textwidth}
+\begin{subfigure}{0.64\textwidth}
     \begin{tikzpicture}
         \pie[text=pin, radius=1.9, rotate=300, sum=32, after number=\%]{        4/ Kupfer,
                                            11/ Alteisen,
-                                           3/ Chrom-Nickel,
-                                           3/ Alu.,
+                                           3/  Chrom-Nickel,
+                                           3/  Aluminium,
                                            11/ E-Schrott}
     \end{tikzpicture}
-    \caption{Metalle \& E-Schrott}
+    \caption{Metalle \& E-Schrott ($\approx$1200kg)}
 \end{subfigure}
 
 \caption{Abfallaufteilung nach Gewicht}
@@ -155,9 +156,9 @@
 \frame{\frametitle{Mitarbeiterumfrage\hfill{}\footnotesize HSLU -- T\&A}
 \begin{figure}
 \begin{bchart}[step=20,max=100,width=0.9\textwidth]
-        \bcbar[text=Recycling und Abfallrennung]{91}
+        \bcbar[text=Recycling und Abfalltrennung]{91}
             \smallskip
-        \bcbar[text=Arbeitsicherheit]{73}
+        \bcbar[text=Arbeitssicherheit]{73}
             \smallskip
         \bcbar[text=Produkte \& Dienstleistungen]{72}
             \smallskip
@@ -168,7 +169,7 @@
  \caption{Essentielle Umfragepunkte}
 \end{figure}
 }
-\subsection{Ecomap}
+\subsection{Ecomaps}
 \frame{\frametitle{Ecomaps\hfill{}\footnotesize HSLU -- T\&A}
 % Untersuchung zu:
 % \begin{itemize}
@@ -195,16 +196,29 @@
 \begin{itemize}
 \item<1-> Abfall
 \item<2-> Energie
-\item<3-> Sicherheit
+\item<2-> Sicherheit
+%\item<7-> \sout{Verkehr}
+\end{itemize}
+\end{block}
+\begin{block}{Irrelevante Bereiche}
+\begin{itemize}
+\item<2-> \sout{Luft}
+\item<2-> \sout{Wasser}
+\item<2-> \sout{Lärm}
+%\item<7-> \sout{Verkehr}
 \end{itemize}
 \end{block}
 \vspace{1cm} 
 \end{column}
 \begin{column}{5cm}
 \begin{overprint}
-\includegraphics<1>[scale=0.2, angle=270]{ecomap_abfall.pdf}
-\includegraphics<2>[scale=0.2, angle=0]{ecomap_energie.pdf}
-\includegraphics<3>[scale=0.2, angle=270]{ecomap_sicherheit.pdf}
+\begin{figure}
+ \includegraphics<1->[scale=0.2, angle=270]{ecomap_abfall2.pdf}
+ \caption{Ecomap -- Abfall}
+\end{figure}
+% \includegraphics<1->[scale=0.2, angle=270]{ecomap_abfall.pdf}
+% \includegraphics<2>[scale=0.2, angle=0]{ecomap_energie.pdf}
+% \includegraphics<3>[scale=0.2, angle=270]{ecomap_sicherheit.pdf}
 \end{overprint}
 \end{column}
 \end{columns}
@@ -227,7 +241,7 @@
 \author{Ervin Mazlagic}
 \section{Ergebnisse}
 \subsection{Abfall}
-\frame{\frametitle{Ecomap zum Abfall\hfill{}\footnotesize HSLU -- T\&A}
+\frame{\frametitle{Ergebnisse im Bereich Abfall\hfill{}\footnotesize HSLU -- T\&A}
 
 % \begin{block}{Aktuelle Lage}
 % \begin{itemize}
@@ -257,19 +271,19 @@
         \begin{tikzpicture}
             \pie[text=legend, radius=1.2, pos ={6 ,0}]{33/ Kupfer, 67/ Elektro}
         \end{tikzpicture}
-        \caption{ab 2012}
+        \caption{Ziel ab 2013}
     \end{subfigure}
 \caption{Elektroabfälle}
 \end{figure}
 }
 
 \subsection{Energie}
-\frame{\frametitle{Ecomap zur Energie\hfill{}\footnotesize HSLU -- T\&A}
+\frame{\frametitle{Ergebnisse im Bereich Energie\hfill{}\footnotesize HSLU -- T\&A}
 \begin{block}{Aktuelle Lage}
 \begin{itemize}
  \item Beleuchtung mit FL-Röhren
- \item Heizungsmanagement fehlerhaft 
- \item EVD-Geräte nicht optimiert
+ \item Heizungsmanagement fehlerbehaftet 
+ \item EDV-Geräte nicht optimiert
 \end{itemize}
 \end{block}
 
@@ -284,7 +298,7 @@
 }
 \author{Adriano Chiara}
 \subsection{Sicherheit}
-\frame{\frametitle{Ecomap zur Sicherheit\hfill{}\footnotesize HSLU -- T\&A}
+\frame{\frametitle{Ergebnisse im Bereich Sicherheit\hfill{}\footnotesize HSLU -- T\&A}
 
 \begin{columns}
 \begin{column}{5cm}
@@ -306,8 +320,8 @@
 \begin{column}{5cm}
 \begin{overprint}
 \begin{figure}
-\includegraphics<1>[scale=0.2, angle=0]{fluchtplan2.pdf}
-\caption{Flucht- \& Rettungsplan}
+\includegraphics<1>[scale=0.22, angle=0]{fluchtplan3.pdf}
+\caption{Fluchtplan}
 \end{figure}
 \end{overprint}
 \end{column}
@@ -318,11 +332,13 @@
 \begin{block}{Aktuelle Lage}
 \begin{itemize}
  \item Kommunikation fehlt
+ \item Konzept nicht vorhanden
 \end{itemize}
 \end{block}
 
 \begin{block}{Ziele}
 \begin{itemize}
+ \item Einführung eines Konzeptes
  \item Sensibilisierung zu Umweltleistungen
  \item Mitarbeiter einbeziehen
  \item regelmässige Audits durchführen
@@ -330,15 +346,25 @@
 \end{block}
 }
 
-\section{Schluss}
+\section{Fazit}
+\subsection*{Fazit}
 \frame{\frametitle{Fazit und Schlusswort\hfill{}\footnotesize HSLU -- T\&A}
 \begin{block}{Fazit}
-Die Printprocess AG befindet sich auf gutem Wege auch weiterhin gut gerüstet zu sein gegenüber den Umwelttechnischen Entwicklungen unserer Zeit. Wichtig ist den Anschluss nicht zu verpassen und stets rechtzeitig zu handeln. 
+\begin{itemize}
+ \item Guter Stand
+ \item Innovation verfolgen
+ \item Konzepte pflegen
+\end{itemize}
+%Die Printprocess AG befindet sich auf gutem Wege auch weiterhin gut gerüstet zu sein gegenüber den Umwelttechnischen Entwicklungen unserer Zeit. Wichtig ist den Anschluss nicht zu verpassen und stets rechtzeitig zu handeln. 
 \end{block}
-\begin{block}{Weitere Schritte}
-Die Printprocess AG wird nach Abschluss der Arbeit über die Ergebnisse informiert und so auf aktuelle Mängel und Verbesserungspotential aufmerksam gemacht.
-\end{block}
+% \begin{block}{Weitere Schritte}
+% Die Printprocess AG wird nach Abschluss der Arbeit über die Ergebnisse informiert und so auf aktuelle Mängel und Verbesserungspotential aufmerksam gemacht.
+% \end{block}
+}
 
+\author{Kontextgruppe 8}
+\subsection*{Diskussion}
+\frame{\frametitle{Offene Diskussion\hfill{}\footnotesize HSLU -- T\&A}
 }
 
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2012.11.30)  19 JAN 2013 21:14
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2012.11.30)  20 JAN 2013 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1037,31 +1037,44 @@ File: tikzlibrarycalc.code.tex 2009/09/04 v2.10 (rcs-revision 1.6)
 \WF@everypar=\toks44
 Package: wrapfig 2003/01/31  v 3.6
 )
-(./pgf-pie.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box57
+\UL@hyphenbox=\box58
+\UL@skip=\skip62
+\UL@hook=\toks45
+\UL@height=\dimen204
+\UL@pe=\count170
+\UL@pixel=\dimen205
+\ULC@box=\box59
+Package: ulem 2012/05/18
+\ULdepth=\dimen206
+) (./pgf-pie.sty
 Package: pgf-pie 2011/10/02 v0.2 Some LaTeX macros for pie chart by using PGF/T
 ikz package.
- (/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
-\pgfpie@angleEnd=\skip62
-\c@pgfpie@explodeLength=\count170
-\c@pgfpie@colorLength=\count171
-\c@pgfpie@sliceLength=\count172
-) (./kontextpres.aux)
+
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+\pgfpie@angleEnd=\skip63
+\c@pgfpie@explodeLength=\count171
+\c@pgfpie@colorLength=\count172
+\c@pgfpie@sliceLength=\count173
+)
+(./kontextpres.aux)
 \openout1 = `kontextpres.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1099,17 +1112,17 @@ LaTeX Font Info:    ... okay on input line 39.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count173
-\scratchdimen=\dimen204
-\scratchbox=\box57
-\nofMPsegments=\count174
-\nofMParguments=\count175
-\everyMPshowfont=\toks45
-\MPscratchCnt=\count176
-\MPscratchDim=\dimen205
-\MPnumerator=\count177
-\makeMPintoPDFobject=\count178
-\everyMPtoPDFconversion=\toks46
+\scratchcounter=\count174
+\scratchdimen=\dimen207
+\scratchbox=\box60
+\nofMPsegments=\count175
+\nofMParguments=\count176
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count177
+\MPscratchDim=\dimen208
+\MPnumerator=\count178
+\makeMPintoPDFobject=\count179
+\everyMPtoPDFconversion=\toks47
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1126,8 +1139,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box58
-Package hyperref Info: Link coloring OFF on input line 39.
+\AtBeginShipoutBox=\box61
+Package hyperref Info: Link coloring OFF on input line 40.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -1135,58 +1148,58 @@ Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count179
+\c@section@level=\count180
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
 
 (./kontextpres.out) (./kontextpres.out)
 \@outlinefile=\write5
 \openout5 = `kontextpres.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 39.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 39.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 40.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 39.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 39.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 39.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 39.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 39.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 39.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 39.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 39.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 39.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 39.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 39.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 39.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 39.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 39.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 39.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 39.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 39.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 39.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 39.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 40.
 
 (/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-basic-dicti
 onary/translator-basic-dictionary-English.dict
@@ -1218,52 +1231,52 @@ Package caption Info: End \AtBeginDocument code.
  (./kontextpres.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <4> not available
-(Font)              size <5> substituted on input line 54.
+(Font)              size <5> substituted on input line 55.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 54.
+(Font)              size <5> substituted on input line 55.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 56.
+(hyperref)                setting the option has no effect on input line 57.
 
 (./kontextpres.toc) [2
 
-] <kupferaktie.png, id=182, 873.2625pt x 501.875pt>
+] <kupferaktie.png, id=183, 873.2625pt x 501.875pt>
 File: kupferaktie.png Graphic file (type png)
 
 <use kupferaktie.png>
-Package pdftex.def Info: kupferaktie.png used on input line 72.
+Package pdftex.def Info: kupferaktie.png used on input line 73.
 (pdftex.def)             Requested size: 276.559pt x 158.94148pt.
  [3
 
  <./kupferaktie.png>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 116.
+LaTeX Font Info:    Try loading font information for U+msa on input line 117.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 116.
+LaTeX Font Info:    Try loading font information for U+msb on input line 117.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-<ppag.png, id=219, 310.761pt x 269.20575pt>
+<ppag.png, id=220, 310.761pt x 269.20575pt>
 File: ppag.png Graphic file (type png)
  <use ppag.png>
-Package pdftex.def Info: ppag.png used on input line 116.
+Package pdftex.def Info: ppag.png used on input line 117.
 (pdftex.def)             Requested size: 155.38011pt x 134.60254pt.
 
-Overfull \hbox (13.11633pt too wide) in paragraph at lines 116--116
+Overfull \hbox (13.11633pt too wide) in paragraph at lines 117--117
  [] 
  []
 
 
-Overfull \vbox (5.8682pt too high) detected at line 116
+Overfull \vbox (17.8682pt too high) detected at line 117
  []
 
 [4
@@ -1271,7 +1284,7 @@ Overfull \vbox (5.8682pt too high) detected at line 116
  <./ppag.png>]
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 117.
+(hyperref)                setting the option has no effect on input line 118.
 
 Missing character: There is no b in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -1287,11 +1300,6 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no ! in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-
-Overfull \hbox (8.39935pt too wide) in paragraph at lines 153--153
-[][] 
- []
-
 Missing character: There is no b in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no u in font nullfont!
@@ -1331,7 +1339,7 @@ Missing character: There is no ! in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
-Overfull \hbox (3.57515pt too wide) in paragraph at lines 153--153
+Overfull \hbox (18.76389pt too wide) in paragraph at lines 154--154
 [][] 
  []
 
@@ -1339,127 +1347,118 @@ Overfull \hbox (3.57515pt too wide) in paragraph at lines 153--153
 
 ] [6
 
-] <ecomap_abfall.pdf, id=321, 597.50786pt x 845.04686pt>
-File: ecomap_abfall.pdf Graphic file (type pdf)
+] <ecomap_abfall2.pdf, id=323, 449.74274pt x 740.9557pt>
+File: ecomap_abfall2.pdf Graphic file (type pdf)
 
-<use ecomap_abfall.pdf>
-Package pdftex.def Info: ecomap_abfall.pdf used on input line 211.
-(pdftex.def)             Requested size: 119.49945pt x 169.00638pt.
+<use ecomap_abfall2.pdf>
+Package pdftex.def Info: ecomap_abfall2.pdf used on input line 225.
+(pdftex.def)             Requested size: 89.94695pt x 148.1885pt.
 
-Overfull \hbox (169.00638pt too wide) in paragraph at lines 211--211
-[][][]  
+Overfull \hbox (5.92473pt too wide) in paragraph at lines 225--225
+ [] 
  []
 
 [7
 
- <./ecomap_abfall.pdf>]
-<ecomap_energie.pdf, id=364, 845.04686pt x 597.50786pt>
-File: ecomap_energie.pdf Graphic file (type pdf)
+ <./ecomap_abfall2.pdf>]
+File: ecomap_abfall2.pdf Graphic file (type pdf)
+ <use ecomap_abfall2.pdf>
+Package pdftex.def Info: ecomap_abfall2.pdf used on input line 225.
+(pdftex.def)             Requested size: 89.94695pt x 148.1885pt.
 
-<use ecomap_energie.pdf>
-Package pdftex.def Info: ecomap_energie.pdf used on input line 211.
-(pdftex.def)             Requested size: 169.00638pt x 119.49945pt.
-
-Overfull \hbox (169.00638pt too wide) in paragraph at lines 211--211
-[][][]  
+Overfull \hbox (5.92473pt too wide) in paragraph at lines 225--225
+ [] 
  []
 
 [8
 
- <./ecomap_energie.pdf>]
-<ecomap_sicherheit.pdf, id=406, 597.50786pt x 845.04686pt>
-File: ecomap_sicherheit.pdf Graphic file (type pdf)
+]
 
-<use ecomap_sicherheit.pdf>
-Package pdftex.def Info: ecomap_sicherheit.pdf used on input line 211.
-(pdftex.def)             Requested size: 119.49945pt x 169.00638pt.
+Package hyperref Warning: Option `pdfauthor' has already been used,
+(hyperref)                setting the option has no effect on input line 241.
 
-Overfull \hbox (169.00638pt too wide) in paragraph at lines 211--211
-[][][]  
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+Overfull \hbox (17.88852pt too wide) in paragraph at lines 278--278
+[][] 
  []
 
 [9
 
- <./ecomap_sicherheit.pdf>]
-
-Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 227.
-
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no ! in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no ! in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no ! in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no ! in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no ! in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no ! in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-
-Overfull \hbox (17.88852pt too wide) in paragraph at lines 264--264
-[][] 
- []
-
-[10
-
-] [11
+] [10
 
 ]
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 285.
+(hyperref)                setting the option has no effect on input line 299.
 
-<fluchtplan2.pdf, id=514, 845.1575pt x 597.23125pt>
-File: fluchtplan2.pdf Graphic file (type pdf)
- <use fluchtplan2.pdf>
-Package pdftex.def Info: fluchtplan2.pdf used on input line 315.
-(pdftex.def)             Requested size: 169.0285pt x 119.44412pt.
+<fluchtplan3.pdf, id=464, 722.69987pt x 542.02487pt>
+File: fluchtplan3.pdf Graphic file (type pdf)
+ <use fluchtplan3.pdf>
+Package pdftex.def Info: fluchtplan3.pdf used on input line 329.
+(pdftex.def)             Requested size: 158.99446pt x 119.24583pt.
 
-Overfull \hbox (26.76472pt too wide) in paragraph at lines 315--315
+Overfull \hbox (16.73068pt too wide) in paragraph at lines 329--329
  [] 
  []
 
 
-Overfull \vbox (2.70978pt too high) detected at line 315
+Overfull \vbox (0.58908pt too high) detected at line 329
  []
 
-[12
+[11
 
- <./fluchtplan2.pdf>] [13
+ <./fluchtplan3.pdf>] [12
 
-] [14
+] [13
+
+]
+
+Package hyperref Warning: Option `pdfauthor' has already been used,
+(hyperref)                setting the option has no effect on input line 365.
+
+[14
 
 ]
 \tf@nav=\write6
@@ -1471,36 +1470,37 @@ Overfull \vbox (2.70978pt too high) detected at line 315
 \tf@snm=\write8
 \openout8 = `kontextpres.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 370.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 370.
  (./kontextpres.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 344.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 344.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 370.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 370.
 Package rerunfilecheck Info: File `kontextpres.out' has not changed.
-(rerunfilecheck)             Checksum: DF39D6775D1A3778A74AB7AC096690DD;792.
+(rerunfilecheck)             Checksum: 5E7E9201E19B415988F027A64A5BCCC1;790.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 344.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 370.
  ) 
 Here is how much of TeX's memory you used:
- 20264 strings out of 493485
- 380562 string characters out of 3143525
- 466120 words of memory out of 3000000
- 23036 multiletter control sequences out of 15000+200000
- 11751 words of font info for 43 fonts, out of 3000000 for 9000
+ 20357 strings out of 493485
+ 381361 string characters out of 3143525
+ 467184 words of memory out of 3000000
+ 23122 multiletter control sequences out of 15000+200000
+ 14914 words of font info for 56 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  49i,20n,66p,400b,1006s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on kontextpres.pdf (14 pages, 1174965 bytes).
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on kontextpres.pdf (14 pages, 1455256 bytes).
 PDF statistics:
- 701 PDF objects out of 1000 (max. 8388607)
- 620 compressed objects within 7 object streams
- 43 named destinations out of 1000 (max. 500000)
- 229 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1140 PDF objects out of 1200 (max. 8388607)
+ 875 compressed objects within 9 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
